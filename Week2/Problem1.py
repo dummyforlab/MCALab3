@@ -10,3 +10,6 @@ def digitsReverse(number):
 number=int(input("Enter a number : "))
 
 digitsReverse(number)
+
+
+HASAN AHMAD 
